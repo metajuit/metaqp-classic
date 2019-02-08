@@ -20,3 +20,31 @@ $ cd metaqp
 $ sudo npm install http-server
 $ http-server metaqp
 ```
+
+### Pretty printing `data.json`
+
+You can use any JSON utility that is installed on your computer.
+[`jq`](https://stedolan.github.io/jq/) is recommended.
+
+```sh
+$ jq '' data/data.json > data/data2.json
+$ mv data/data2.json data/data.json
+```
+
+## Wiki
+We've a list of FAQ [here](https://github.com/metajuit/metaqp/wiki/FAQ). If you've any queries, find the answer from there. If your question is not there, add it by yourself. We would love to answer.
+
+## Contributions
+
+PRs are most welcome!
+
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+## Contributor
+
+Made with <span style="font-size:130%;color:red;">&hearts;</span> [Akhilesh Kumar](http://akhileshkumar.me) and [Lavish Kumar](github.com/lavish-kumar)
+
+## Maintainer
+
+[Akhilesh Kumar](http://akhileshkumar.me) (@akhilesh-k on [metajuit Slack](https://metajuit.herokuapp.com).)
+
