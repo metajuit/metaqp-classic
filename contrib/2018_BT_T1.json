@@ -1,133 +1,133 @@
 [
-    //BIOTECHNOLOGY PAPERS
+
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1rLVNiiP7FNdH3xnW-J_ISCgphlhtlonG",
-     "Paper":"Cell Culture Technology",
-     "Semester":"4th Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1rLVNiiP7FNdH3xnW-J_ISCgphlhtlonG",
+        "Paper": "Cell Culture Technology",
+        "Semester": "4th Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1MWSdA3MlvmShBS9y66ZxTjtsunY4RbA4",
-     "Paper":"Comparative and Functional Genomics",
-     "Semester":"6th Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1MWSdA3MlvmShBS9y66ZxTjtsunY4RbA4",
+        "Paper": "Comparative and Functional Genomics",
+        "Semester": "6th Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1nDBT20RHoLyN6QZO040sNrSfj0fT1acC",
-     "Paper":"Diagnostics and Vaccine Manufacture Technologies",
-     "Semester":"6th Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1nDBT20RHoLyN6QZO040sNrSfj0fT1acC",
+        "Paper": "Diagnostics and Vaccine Manufacture Technologies",
+        "Semester": "6th Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=12QsEdGji_14NsHKF7PBsCDj3t7VExrSx",
-     "Paper":"Downstream Processing",
-     "Semester":"6th Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=12QsEdGji_14NsHKF7PBsCDj3t7VExrSx",
+        "Paper": "Downstream Processing",
+        "Semester": "6th Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1i9UgPgc0IhLyyZd-3Nk1genGkJLRT26w",
-     "Paper":"Food and Agricultural Biotechnology",
-     "Semester":"6th Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1i9UgPgc0IhLyyZd-3Nk1genGkJLRT26w",
+        "Paper": "Food and Agricultural Biotechnology",
+        "Semester": "6th Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1qf-qdarEe-ZCFMCyXKrFxWIMOPFm133P",
-     "Paper":"Genetics",
-     "Semester":"2nd Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1qf-qdarEe-ZCFMCyXKrFxWIMOPFm133P",
+        "Paper": "Genetics",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1rk65fA4mToL3x84lqyAPae1ibCL04Q-X",
-     "Paper":"General Chemistry",
-     "Semester":"2nd Sem / T1",
-     "Year":"2018"
-    },{
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=11cjhcoLVVsMAOuWGf5tysdIPKar593tQ",
-     "Paper":"Molecular Biology",
-     "Semester":"4th Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1rk65fA4mToL3x84lqyAPae1ibCL04Q-X",
+        "Paper": "General Chemistry",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
+    }, {
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=11cjhcoLVVsMAOuWGf5tysdIPKar593tQ",
+        "Paper": "Molecular Biology",
+        "Semester": "4th Sem / T1",
+        "Year": "2018"
     },
     {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1pkh5Dkgtp-LiF3uAi5lo6femi5hYmelh",
-     "Paper":"Chemistry",
-     "Semester":"2nd Sem / T1",
-     "Year":"2018"
+        "Department": "Biotechnology",
+        "Link": "https://drive.google.com/open?id=1pkh5Dkgtp-LiF3uAi5lo6femi5hYmelh",
+        "Paper": "Chemistry",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
     },
 
     [
-    //BIOTECHNOLOGY PAPERS
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1rLVNiiP7FNdH3xnW-J_ISCgphlhtlonG",
-     "Paper":"Cell Culture Technology",
-     "Semester":"4th Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1MWSdA3MlvmShBS9y66ZxTjtsunY4RbA4",
-     "Paper":"Comparative and Functional Genomics",
-     "Semester":"6th Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1nDBT20RHoLyN6QZO040sNrSfj0fT1acC",
-     "Paper":"Diagnostics and Vaccine Manufacture Technologies",
-     "Semester":"6th Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=12QsEdGji_14NsHKF7PBsCDj3t7VExrSx",
-     "Paper":"Downstream Processing",
-     "Semester":"6th Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1i9UgPgc0IhLyyZd-3Nk1genGkJLRT26w",
-     "Paper":"Food and Agricultural Biotechnology",
-     "Semester":"6th Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1qf-qdarEe-ZCFMCyXKrFxWIMOPFm133P",
-     "Paper":"Genetics",
-     "Semester":"2nd Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1rk65fA4mToL3x84lqyAPae1ibCL04Q-X",
-     "Paper":"General Chemistry",
-     "Semester":"2nd Sem / T1",
-     "Year":"2017"
-    },{
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=11cjhcoLVVsMAOuWGf5tysdIPKar593tQ",
-     "Paper":"Molecular Biology",
-     "Semester":"4th Sem / T1",
-     "Year":"2017"
-    },
-    {
-     "Department":"Biotechnology",
-     "Link":"https://drive.google.com/open?id=1pkh5Dkgtp-LiF3uAi5lo6femi5hYmelh",
-     "Paper":"Chemistry",
-     "Semester":"2nd Sem / T1",
-     "Year":"2017"
-    },
 
-]
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1rLVNiiP7FNdH3xnW-J_ISCgphlhtlonG",
+            "Paper": "Cell Culture Technology",
+            "Semester": "4th Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1MWSdA3MlvmShBS9y66ZxTjtsunY4RbA4",
+            "Paper": "Comparative and Functional Genomics",
+            "Semester": "6th Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1nDBT20RHoLyN6QZO040sNrSfj0fT1acC",
+            "Paper": "Diagnostics and Vaccine Manufacture Technologies",
+            "Semester": "6th Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=12QsEdGji_14NsHKF7PBsCDj3t7VExrSx",
+            "Paper": "Downstream Processing",
+            "Semester": "6th Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1i9UgPgc0IhLyyZd-3Nk1genGkJLRT26w",
+            "Paper": "Food and Agricultural Biotechnology",
+            "Semester": "6th Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1qf-qdarEe-ZCFMCyXKrFxWIMOPFm133P",
+            "Paper": "Genetics",
+            "Semester": "2nd Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1rk65fA4mToL3x84lqyAPae1ibCL04Q-X",
+            "Paper": "General Chemistry",
+            "Semester": "2nd Sem / T1",
+            "Year": "2017"
+        }, {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=11cjhcoLVVsMAOuWGf5tysdIPKar593tQ",
+            "Paper": "Molecular Biology",
+            "Semester": "4th Sem / T1",
+            "Year": "2017"
+        },
+        {
+            "Department": "Biotechnology",
+            "Link": "https://drive.google.com/open?id=1pkh5Dkgtp-LiF3uAi5lo6femi5hYmelh",
+            "Paper": "Chemistry",
+            "Semester": "2nd Sem / T1",
+            "Year": "2017"
+        }
+
+    ]
 
 ]
