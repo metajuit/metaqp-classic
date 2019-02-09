@@ -1,0 +1,42 @@
+[
+   {
+        "Department": "physics",
+        "Link": "https://drive.google.com/open?id=1lFpChSoqnP8AM8KYlAYYx5xtbVr3Kxpy",
+        "Paper": "bio physical techniques",
+        "Semester": "4th Sem / T1",
+        "Year": "2018"
+    },
+    {
+        "Department": "physics",
+        "Link": "https://drive.google.com/open?id=1DZ2Gp2r81YmLYZmA2vw_xpf0LGCEySTU",
+        "Paper": "material science",
+        "Semester": "6th Sem / T1",
+        "Year": "2018"
+    },
+    {
+        "Department": "physics",
+        "Link": "https://drive.google.com/open?id=1VGPirrWABDX4rmEwDqxMUYTmv3o9Sl1b",
+        "Paper": "physics 2",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
+    },
+    {
+        "Department": "physics",
+        "Link": "https://drive.google.com/open?id=1-Iw-CveLtbrCDbziv29otG5BcjgDBXyF",
+        "Paper": "material science",
+        "Semester": "6th Sem / T2",
+        "Year": "2018"
+    },{
+        "Department": "physics",
+        "Link": "https://drive.google.com/open?id=1LX_2n-MnYFIQH_a9Y7ubBq2McikpOeXV",
+        "Paper": "physics 2",
+        "Semester": "2nd Sem / T2",
+        "Year": "2018"
+    },{
+        "Department": "physics",
+        "Link": "https://drive.google.com/open?id=1qf9AXtQ9YUpPD5nTsSGAX3_KXx892z89",
+        "Paper": "biophysical techniques",
+        "Semester": "4th Sem / T2",
+        "Year": "2018"
+    },
+]
