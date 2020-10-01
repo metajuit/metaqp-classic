@@ -54,6 +54,16 @@
   -webkit-animation-delay: 0.9s;
           animation-delay: 0.9s;
 }
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #151515;
+}
+
+::selection {
+  color: white;
+  background: #151515;
+}
 @-webkit-keyframes sk-foldCubeAngle {
   0%, 10% {
     -webkit-transform: perspective(140px) rotateX(-180deg);
